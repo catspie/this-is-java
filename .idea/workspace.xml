@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4632d0f9-3828-4522-ba92-649dc6fdb944" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/ChildPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/ContainerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/OtherPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter13/UtilExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="4632d0f9-3828-4522-ba92-649dc6fdb944" name="Changes" comment="[확인문제]">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter14/LamdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter14/LamdaExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ArrayAsListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Board1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/BoardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashMapExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashSetExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashtableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/IteratorVsStreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chapter12/MovieThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chapter12/MovieThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chapter12/MusicRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chapter12/MusicRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chapter12/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chapter12/ThreadExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,32 +81,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/intelliJ-workspace/this-is-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "Console",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.chapter15" />
       <recent name="org.chapter13" />
       <recent name="org.chapter12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UtilExample">
-    <configuration name="ContainerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter13.ContainerExample" />
+  <component name="RunManager" selected="Application.IteratorVsStreamExample">
+    <configuration name="HashtableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter15.HashtableExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter13.*" />
+          <option name="PATTERN" value="org.chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter12.ThreadExample" />
+    <configuration name="IteratorVsStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.IteratorVsStreamExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter12.*" />
+          <option name="PATTERN" value="org.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +130,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UtilExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter13.UtilExample" />
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter15.ListExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter13.*" />
+          <option name="PATTERN" value="org.chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter15.MapExample" />
+      <module name="this-is-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter15.TreeSetExample" />
+      <module name="this-is-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,9 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UtilExample" />
-        <item itemvalue="Application.ContainerExample" />
-        <item itemvalue="Application.ThreadExample" />
+        <item itemvalue="Application.IteratorVsStreamExample" />
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.HashtableExample" />
       </list>
     </recent_temporary>
   </component>
@@ -148,11 +189,50 @@
       <updated>1680247290477</updated>
       <workItem from="1680247292005" duration="1060000" />
       <workItem from="1680446109431" duration="2860000" />
-      <workItem from="1680448990880" duration="446000" />
+      <workItem from="1680448990880" duration="4963000" />
+      <workItem from="1680503342131" duration="7715000" />
+      <workItem from="1680512763792" duration="2733000" />
+      <workItem from="1680584274241" duration="1004000" />
+      <workItem from="1680594652019" duration="127000" />
+      <workItem from="1680680418901" duration="751000" />
+      <workItem from="1680693699677" duration="632000" />
+      <workItem from="1681108287780" duration="256000" />
     </task>
+    <task id="LOCAL-00001" summary="[확인문제]">
+      <created>1680449637140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680449637140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[확인문제]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[확인문제]" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chapter14/LamdaExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chapter15/TreeSetExample.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
