@@ -5,28 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4632d0f9-3828-4522-ba92-649dc6fdb944" name="Changes" comment="[확인문제]">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter14/LamdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter14/LamdaExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ArrayAsListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Board1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/BoardDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashMapExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashSetExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/HashtableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/TreeSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/VectorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/IteratorVsStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/FromArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/FromCollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/FromDirectoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/FromFIleContentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/FromIntRangeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/LamdaExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/MapAndReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/ParallelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chapter16/linedata.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chapter15/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chapter15/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +78,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/intelliJ-workspace/this-is-java",
+    "last_opened_file_path": "C:/intelliJ-workspace/was-practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,27 +89,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.chapter16" />
       <recent name="org.chapter15" />
       <recent name="org.chapter13" />
       <recent name="org.chapter12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorVsStreamExample">
-    <configuration name="HashtableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter15.HashtableExample" />
-      <module name="this-is-java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.chapter15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorVsStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter16.IteratorVsStreamExample" />
+  <component name="RunManager" selected="Application.StreamExample">
+    <configuration name="FromCollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.FromCollectionExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
@@ -130,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter15.ListExample" />
+    <configuration name="FromDirectoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.FromDirectoryExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter15.*" />
+          <option name="PATTERN" value="org.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter15.MapExample" />
+    <configuration name="FromFIleContentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.FromFIleContentExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter15.*" />
+          <option name="PATTERN" value="org.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chapter15.TreeSetExample" />
+    <configuration name="FromIntRangeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.FromIntRangeExample" />
       <module name="this-is-java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chapter15.*" />
+          <option name="PATTERN" value="org.chapter16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chapter16.StreamExample" />
+      <module name="this-is-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IteratorVsStreamExample" />
-        <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.HashtableExample" />
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.FromDirectoryExample" />
+        <item itemvalue="Application.FromFIleContentExample" />
+        <item itemvalue="Application.FromIntRangeExample" />
+        <item itemvalue="Application.FromCollectionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +188,9 @@
       <workItem from="1680594652019" duration="127000" />
       <workItem from="1680680418901" duration="751000" />
       <workItem from="1680693699677" duration="632000" />
-      <workItem from="1681108287780" duration="256000" />
+      <workItem from="1681108287780" duration="4458000" />
+      <workItem from="1681187487387" duration="2580000" />
+      <workItem from="1681191817321" duration="2147000" />
     </task>
     <task id="LOCAL-00001" summary="[확인문제]">
       <created>1680449637140</created>
@@ -205,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680449637140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[확인문제]">
+      <created>1681108558765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681108558765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +228,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/chapter15/TreeSetExample.java</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chapter16/FromCollectionExample.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chapter16/FromFIleContentExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

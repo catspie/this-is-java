@@ -13,6 +13,7 @@ public class Student {
         this.name = name;
     }
 
+
     //eqauls, hashcode 메소드 오버라이딩
     @Override
     public boolean equals(Object o) {
